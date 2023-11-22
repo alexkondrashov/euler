@@ -1,3 +1,3 @@
 # euler
-test2x
+test3
 Project Euler
