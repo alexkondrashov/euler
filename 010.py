@@ -1,3 +1,4 @@
+# https://projecteuler.net/problem=10
 import time
 from math import sqrt
 

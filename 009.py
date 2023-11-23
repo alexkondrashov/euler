@@ -1,3 +1,4 @@
+# https://projecteuler.net/problem=9
 import math
 
 sqrs = []
