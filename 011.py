@@ -1,9 +1,10 @@
+# https://euler.jakumo.org/problems/view/11.html
 
 table = [[0 for _ in range(25)] for _ in range(25)]
 
 res = 0
 
-with open('11.txt', 'r') as file:
+with open('011.txt', 'r') as file:
     lines = file.readlines()
 
 for i in range(20):
