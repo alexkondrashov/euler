@@ -1,7 +1,7 @@
 
 numbers = []
 
-with open('13.txt', 'r') as file:
+with open('013.txt', 'r') as file:
     lines = file.readlines()
 
 for i in range(0, 100):
